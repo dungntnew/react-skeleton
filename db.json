@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "author": "Pete Hunt",
+      "text": "This is one comment"
+    },
+    {
+      "id": "2",
+      "author": "Jordan Walke",
+      "text": "This is *another* comment"
+    },
+    {
+      "author": "example",
+      "text": "aaa",
+      "id": "4ccfa035-d69b-4bcf-a4a7-b35a6731b4cf"
+    },
+    {
+      "author": "Example",
+      "text": "AA",
+      "id": "6424823a-bd05-4aa6-821b-8a290478fd5f"
+    },
+    {
+      "author": "XX",
+      "text": "aaa",
+      "id": 1476431271317
+    },
+    {
+      "author": "aaa",
+      "text": "aaa",
+      "id": 1476431462391
+    },
+    {
+      "author": "aaa",
+      "text": "ddd",
+      "id": 1476431573181
+    },
+    {
+      "author": "aa",
+      "text": "ddd",
+      "id": 1476431669612
+    },
+    {
+      "author": "xxx",
+      "text": "ddd",
+      "id": 1476431759384
+    },
+    {
+      "author": "dada",
+      "text": "dadadada",
+      "id": 1476431763786
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
